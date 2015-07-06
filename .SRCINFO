@@ -1,7 +1,7 @@
 pkgbase = plasma-theme-caledonia
 	pkgdesc = Elegant and minimalistic dark theme for plasma
 	pkgver = 1.5
-	pkgrel = 1
+	pkgrel = 2
 	url = http://sourceforge.net/projects/caledonia/
 	arch = any
 	license = CCPL

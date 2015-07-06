@@ -1,6 +1,6 @@
 pkgname=plasma-theme-caledonia
 pkgver=1.5
-pkgrel=1
+pkgrel=2
 pkgdesc="Elegant and minimalistic dark theme for plasma"
 arch=('any')
 license=('CCPL')
